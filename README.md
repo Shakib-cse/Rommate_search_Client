@@ -20,7 +20,7 @@ Roommate Finder is a modern and responsive web application built to help individ
 
 ## 🔑 Live Preview
 
-[🔗 Live Demo](#) *(https://roommate-search-cea35.web.app/)*
+[🔗 Live Demo](#) *(https://idiotic-wren.surge.sh/)*
 
 ---
 
